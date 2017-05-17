@@ -39,4 +39,7 @@ function social_widgets_init() {
 }
 add_action( 'widgets_init', 'social_widgets_init' );
 
- ?>
+$editor = get_role('editor');
+
+// add $cap capability to this role object
+$editor->add_cap('edit_theme_options');
