@@ -10,7 +10,7 @@
 	<meta name="robots" content="index, follow" />
 	<meta name="Distribution" content="Global" />
 	<meta name="Revisit-After" content="10 Days" />
-	<meta name="keywords" content="lietuva, radijas, mėgėjai, draugija, bangos, sklidimas, radistas, racija, ryšys, lrmd" />
+	<meta name="keywords" content=" lrmd, lietuvos radijas, radijo mėgėjų draugija, radistai" />
 	<meta name="description" content="<?php echo get_bloginfo( $show, 'display' ); ?> - LRMD" />
 
     <meta http-equiv="cache-control" content="max-age=0" />
